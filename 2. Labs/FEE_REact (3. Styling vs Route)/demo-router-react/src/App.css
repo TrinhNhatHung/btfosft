@@ -1,0 +1,24 @@
+.App {
+    height: 100vh;
+}
+header {
+    height: 50px;
+    border: 1px solid red;
+}
+footer {
+    height: 50px;
+    border: 1px solid green;
+}
+main {
+    height: calc(100vh - 100px);
+    border: 1px solid blue;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 10px;
+}
+.active {
+    background-color: blue;
+}

@@ -1,0 +1,23 @@
+1. Links
+  - https://ibaslogic.com/react-tutorial-for-beginners/
+  - https://kipalog.com/posts/React-Component-Lifecycle-Methods-from-v16-3-with-example
+
+2. Video
+   javascript:
+      https://www.youtube.com/watch?v=0SJE9dYdpps&list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5
+   
+  ReactJS [VN]
+     - https://www.youtube.com/watch?v=tprWMUZc_ig&list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd&index=2
+     - https://www.youtube.com/watch?v=OOqVOlqEmUU&list=PLv6GftO355AsWv1PaUHRAAf1NB0usIhVD&index=2
+     - https://www.youtube.com/watch?v=gL5HBA_1bDQ&list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp&index=1
+     - https://www.youtube.com/watch?v=xuVL7hoYb3M&list=PLkY6Xj8Sg8-vV5kALCOT0LShKc6mVFBvW
+     
+   ReactJS [Eng]
+     - https://www.youtube.com/watch?v=xuVL7hoYb3M&list=PLkY6Xj8Sg8-vV5kALCOT0LShKc6mVFBvW
+     - https://www.youtube.com/watch?v=nTeuhbP7wdE&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=1
+     - https://www.youtube.com/watch?v=a_7Z7C_JCyo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2
+
+3. Cheatsheet
+  - https://htmlcheatsheet.com/js/
+  - https://htmlcheatsheet.com/jquery/
+  - https://devhints.io/react

@@ -1,0 +1,49 @@
+.input {
+    height: 30px;
+    width: 300px;
+    margin-right: 15px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid black;
+}
+
+.input:focus {
+    border: #1976d2 2px solid;
+}
+
+.add-icon {
+    color: #1976d2;
+    border: #1976d2 2px solid;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.todos {
+    width: 20%;
+    display: inline-block;
+}
+
+.todo {
+    background-color: #DAE8FC;
+    border: #1976d2 1px solid;
+    margin: 20px 0px;
+    border-radius: 5px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.todo .content {
+    margin-left: 10px;
+}
+
+.todo .delete {
+    margin-right: 10px;
+    font-size: 1.4rem;
+}
+
+.content {
+    display: inline-block;
+}

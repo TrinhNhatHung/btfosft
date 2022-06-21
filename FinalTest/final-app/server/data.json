@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "task 1",
+      "priority": "important",
+      "score": 1,
+      "done": true
+    },
+    {
+      "id": 2,
+      "name": "qqqq",
+      "priority": "medium",
+      "score": "1",
+      "done": false
+    },
+    {
+      "name": "aaa",
+      "score": "9.9",
+      "priority": "important",
+      "id": 6
+    }
+  ]
+}

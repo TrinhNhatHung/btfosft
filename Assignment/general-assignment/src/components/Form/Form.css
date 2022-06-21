@@ -1,0 +1,21 @@
+.form-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-group .input-area {
+    width: 70%;
+}
+
+.msg-invalid {
+    text-align: start;
+    color: #DC3545;
+}
+
+.form-control.valid {
+    border: 1px solid #198754;
+}
+
+.form-control.invalid {
+    border: 1px solid #DC3545;
+}

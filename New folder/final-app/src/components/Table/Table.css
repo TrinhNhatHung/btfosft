@@ -1,0 +1,51 @@
+.table-wrap {
+    text-align: start;
+}
+
+.high {
+    color: #dc3545;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.medium {
+    color: #ffc107;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.low {
+    color: #17a2b8;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.done {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+    color: #28a745
+}
+
+.inprogress {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+    color: #343a40
+}
+
+.cancel {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+    color: #6c757d
+}
+
+.active-row {
+    background-color: #f8f9fa;
+    color: #007bff;
+}
+
+.invalid {
+    color: #dc3545;
+}

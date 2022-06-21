@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Nam Can Sai Gon",
+      "fe": 6,
+      "react": 7,
+      "java": 5
+    },
+    {
+      "id": 2,
+      "name": "def",
+      "fe": 4,
+      "react": 5.5,
+      "java": 6
+    },
+    {
+      "id": 3,
+      "name": "sdfdss",
+      "fe": 5,
+      "react": 5,
+      "java": 5
+    }
+  ]
+}

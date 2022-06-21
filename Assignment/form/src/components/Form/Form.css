@@ -1,0 +1,25 @@
+#form {
+    width: 20%;
+    text-align: start;
+    display: inline-block;
+}
+
+#form .form-label {
+    font-weight: bold;
+}
+
+.form-group {
+    margin-top: 20px;
+}
+
+.invalid {
+    margin-top: 5px;
+}
+
+.form-control.valid {
+    border: 1px solid #198754;
+}
+
+.form-control.invalid {
+    border: 1px solid #DC3545;
+}

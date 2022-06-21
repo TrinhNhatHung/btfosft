@@ -1,0 +1,13 @@
+.form {
+    text-align: start;
+    position: relative;
+}
+
+.form-group {
+    margin-top: 20px;
+}
+
+.container {
+    margin-top: 20px;
+    width: 40%;
+}

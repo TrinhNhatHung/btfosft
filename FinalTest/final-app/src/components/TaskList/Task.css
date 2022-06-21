@@ -1,0 +1,61 @@
+.important {
+    background-color: #ff0000;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.medium {
+    background-color: #ffff00;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.normal {
+    background-color: green;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.actions {
+    background-color: aqua;
+    display: flex;
+    justify-content: end;
+}
+
+.title {
+    background-color: #0000ff;
+    color: white;
+    padding: 8px 0px;
+}
+
+.task-list {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.btn {
+    margin-bottom: 10px !important;
+}
+
+.content-task {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.task-name {
+    text-align: start;
+}
+
+.update {
+    background-color: aqua;
+}
+
+.update label {
+    display: block;
+    text-align: start;
+}

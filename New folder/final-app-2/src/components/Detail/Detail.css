@@ -1,0 +1,11 @@
+.mark {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ava {
+    width: 20%;
+    display: inline-block;
+}

@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nhat Hung",
+      "address": "address1",
+      "age": 18,
+      "phone": "0123456789"
+    },
+    {
+      "id": 2,
+      "name": "Trinh Hung",
+      "address": "08 Ha Van Tinh",
+      "age": 18,
+      "phone": "0942357197"
+    },
+    {
+      "name": "Hung",
+      "address": "Que Chau",
+      "phone": "0942357197",
+      "age": "18",
+      "id": 3
+    },
+    {
+      "name": "Nam Can Sai Gon",
+      "address": "asds a",
+      "phone": "0942357197",
+      "age": "22",
+      "id": 4
+    },
+    {
+      "name": "avc b",
+      "address": "  Ha Van Tinh",
+      "phone": "0942357197",
+      "age": "13",
+      "id": 5
+    }
+  ]
+}

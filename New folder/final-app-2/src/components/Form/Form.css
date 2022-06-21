@@ -1,0 +1,15 @@
+.active-item {
+    background-color: #e0e0e0;
+    color: white;
+}
+
+.form-group {
+    display: inline-block;
+    text-align: start;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+.error {
+    color: #C82333;
+}

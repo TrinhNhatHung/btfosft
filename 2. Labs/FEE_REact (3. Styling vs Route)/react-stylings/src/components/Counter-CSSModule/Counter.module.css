@@ -1,0 +1,47 @@
+.counter {
+  display: flex;
+  align-items: center;
+}
+
+.spanWrapper {
+  overflow: hidden;
+}
+
+.span {
+  font-size: 2rem;
+  width: 40px;
+  display: inline-block;
+  text-align: center;
+  animation: rotate 2s linear infinite;
+}
+
+.button {
+  font-size: 1em;
+  border-radius: 5px;
+  border: 2px solid black;
+  width: 40px;
+  height: 40px;
+  background: none;
+  outline: none;
+}
+
+.button:active {
+  opacity: 0.2;
+  transform: scale(0.9);
+}
+
+@media (min-width: 400px) {
+  .span {
+    background-color: dodgerblue;
+  }
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+

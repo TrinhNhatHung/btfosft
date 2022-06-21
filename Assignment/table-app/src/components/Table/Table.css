@@ -1,0 +1,29 @@
+.content {
+    margin-top: 20px;
+}
+
+.action {
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    width: 30%;
+    margin: 15px 0px;
+}
+
+.form label {
+    font-weight: bold;
+    width: 150px;
+}
+
+.nav-pagination {
+    display: flex;
+    justify-content: flex-end
+}
+
+.page-item {
+    cursor: pointer;
+}

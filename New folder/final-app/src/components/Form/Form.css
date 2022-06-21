@@ -1,0 +1,24 @@
+.form {
+    text-align: start;
+    position: relative;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.action-group {
+    display: flex;
+    justify-content: end;
+}
+
+.form-group {
+    margin-top: 20px;
+}
+
+.radio-group {
+    display: flex;
+    background-color: white;
+}
+
+.form-check {
+    margin-right: 30px;
+}
